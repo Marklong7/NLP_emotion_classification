@@ -22,7 +22,7 @@ So our business problem is that if we can tell the emotion from the content of u
 
 ## Dataset:
 
-Source: dair-ai/emotion · Datasets at Hugging Face
+Source: [dair-ai/emotion · Datasets at Hugging Face](https://huggingface.co/datasets/dair-ai/emotion)
 
 ## Dataset Description:
 
