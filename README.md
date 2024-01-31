@@ -22,6 +22,18 @@ Content Regulation: Content inspectors can prioritize the review of content with
 
 So our business problem is that if we can tell the emotion from the content of users’ posts and categorize them into six basic emotions.
 
+## Methodology (to do)
+
+### Probabilistic modeling 
+* **Logistic Regression**
+* **Naive Bayes**
+
+### Convolutional Neural Nets
+
+### Pre-trained Language Model
+
+## Result (to do)
+
 ## Dataset:
 
 Source: [dair-ai/emotion · Datasets at Hugging Face](https://huggingface.co/datasets/dair-ai/emotion)
