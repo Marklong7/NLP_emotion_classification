@@ -9,5 +9,5 @@ This lecture introduced the same method with Gabriel's code.
 ## Coding Examples:
 
 [1] Emotion classification
-Detect Emotions using a pre-trained transformer model ([Hugging Face Model](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base)).
+Detect Emotions using a pre-trained transformer model ([Hugging Face Model](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base)).   
 [Emotion Classification Tutorial](https://www.nlplanet.org/course-practical-nlp/02-practical-nlp-first-tasks/08-emotion-classification)
