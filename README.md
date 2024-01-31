@@ -7,7 +7,6 @@ Jason Huang, Mark Li, Daniel Wang, Wesley Wang, Gabriel Zhang
 
 ## Topic:
 
-
 Social media emotion classification
 
 ## Business Problem:
