@@ -24,15 +24,17 @@ So our business problem is that if we can tell the emotion from the content of u
 
 ## Methodology (to do)
 
-### Probabilistic modeling 
-* **Logistic Regression**
-* **Naive Bayes**
+### Logistic classifier
 
-### Convolutional Neural Nets
+### Random Forest Classifier
 
-### Pre-trained Language Model
+### Pre-trained Language Model (bhadresh-savani/bert-base-uncased-emotion)
 
-## Result (to do)
+### Fine-tuned BERT (bert-base-cased)
+
+## Result
+
+
 
 ## Dataset:
 
