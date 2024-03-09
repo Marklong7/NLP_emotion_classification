@@ -22,7 +22,7 @@ Content Regulation: Content inspectors can prioritize the review of content with
 
 So our business problem is that if we can tell the emotion from the content of users’ posts and categorize them into six basic emotions.
 
-## Methodology (to do)
+## Methodology
 
 ### Logistic classifier
 
